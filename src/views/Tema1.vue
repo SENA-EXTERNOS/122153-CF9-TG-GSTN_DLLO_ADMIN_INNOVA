@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Aspectos generales de la contabilidad
+      h1 Categorías gramaticales
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-4
@@ -380,9 +380,110 @@
         | 
         h3.text-black Párrafos de introducción
 
-    p.mb-5 Un párrafo de introducción es el contacto inicial que el leyente tendrá con el escrito, de manera que se debe captar su respeto e interés desde el mismo momento inicial, para que continúe leyendo hasta que termine.
+    p.mb-3 Un párrafo de introducción es el contacto inicial que el leyente tendrá con el escrito, de manera que se debe captar su respeto e interés desde el mismo momento inicial, para que continúe leyendo hasta que termine.
 
     p.mb-5 Los diferentes tipos de párrafos de introducción son: 
+
+    .row.m-0.align-items-center.justify-content-between.mb-5
+
+      .col-lg-9
+        TabsA.color-acento-contenido.grs
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De síntesis")
+            p Es el utilizado en todo tipo o modelo de texto; aquí se resume el tema o la materia del escrito. La ventaja de esta entrada se da porque presenta de manera rápida, información integrante sobre el contenido del texto y la desventaja es que permite que la información se manifieste presumible y repetitiva.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De anécdota")
+            p Las anécdotas, los hechos, las historias, atraen e involucran al lector.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De breves afirmaciones")
+            p Es propio de la práctica periodística; son frases cortas, sintéticas y efectivas.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De cita")
+            p Es una de las figuras más utilizadas y efectivas para cautivar la atención del leyente, pueden usarse proverbios, versos de poetas o frases proferidas o escritas por un personaje famoso.   
+              
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De interrogante")
+            p Propone un problema y el texto que le sigue especifica su progreso y, algunas veces, adiciona otros interrogantes que muestran los distintos aspectos del tema inicial.   
+              
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De analogía")
+            p Dispone una comparación entre el asunto escrito y otra postura; explica la dificultad valiéndose de un contexto similar que pueda atraer la atención inicial del leyente.    
+              
+           
+      .col-lg-3.mb-4.mb-lg-0
+        figure
+          img(src='@/assets/curso/temas/tema1/img-17.png')
+
+    br
+
+    ul.lista-ul--color.mor.mb-3
+      li 
+        i.fas.fa-square
+        | 
+        h3.text-black Párrafos de desarrollo
+
+    p.mb-3 Un párrafo de desarrollo es aquel donde se enuncia y explica la idea principal.
+    p.mb-5 Los tipos de párrafos de desarrollo son
+
+    .row.m-0.align-items-center.justify-content-between.mb-5
+      .col-lg-3.mb-4.mb-lg-0
+        figure
+          img(src='@/assets/curso/temas/tema1/img-18.png')
+      .col-lg-9
+        TabsA.color-acento-contenido.grs
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De enumeración")
+            p La información se expone en forma de lista que va relacionada entre sus componentes. Este párrafo está conformado por dos partes: la lista de atributos y la idea principal. Puede presentarse en forma de escrutinio, cuenta cuántos componentes anteceden o preceden a la lista y, como resumen, realiza una anticipación que muestra, de forma breve, los contenidos.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De secuencia")
+            p Las anécdotas, los hechos, las historias, atraen e involucran al lector.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De secuencia")
+            p Es propio de la práctica periodística; son frases cortas, sintéticas y efectivas.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De desarrollo de un concepto")
+            p Es una de las figuras más utilizadas y efectivas para cautivar la atención del leyente, pueden usarse proverbios, versos de poetas o frases proferidas o escritas por un personaje famoso.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De enunciado/solución de un problema")
+            p Propone un problema y el texto que le sigue especifica su progreso y, algunas veces, adiciona otros interrogantes que muestran los distintos aspectos del tema inicial.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De causa/efecto")
+            p Dispone una comparación entre el asunto escrito y otra postura; explica la dificultad valiéndose de un contexto similar que pueda atraer la atención inicial del leyente. 
+
+
+    br
+
+    ul.lista-ul--color.mor.mb-3
+      li 
+        i.fas.fa-square
+        | 
+        h3.text-black Párrafos de conclusión
+
+    p.mb-3 Es el cierre del escrito, es un párrafo al final del texto, donde se resumen los temas más importantes.
+    p.mb-5 Existen varias formas de estructurar una conclusión. A continuación, se muestran las más comunes:
+
+    .row.m-0.align-items-center.justify-content-between.mb-5
+
+      .col-lg-9
+        TabsA.color-acento-contenido.grs    
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De síntesis")
+            p Una corta recopilación de las primordiales ideas del escrito.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De anécdota")
+            p Rescata el hilo conductor de todo el escrito por medio de elementos narrativos o visuales, que captan la atención del lector y permiten un buen recuerdo del texto.   
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De breves afirmaciones")
+            p Suceden a un periodo que simboliza el legítimo final del texto y repercute como un eco, una resonancia que ahonda en él.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De cita")
+            p Se puede utilizar el tipo de citas que se desee, siempre que se adapte al tema que se presenta.    
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De interrogante")
+            p Propone, al final del escrito, las preguntas no resueltas y los problemas expuestos a las presunciones del futuro.
+
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De analogía")
+            p Presenta una confrontación entre el texto escrito y otra situación y expresa el problema utilizando un contexto parecido que pueda atraer la atención inicial del lector.    
+                                    
+      .col-lg-3.mb-4.mb-lg-0
+        figure
+          img(src='@/assets/curso/temas/tema1/img-19.png')
 
 
 </template>
