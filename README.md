@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://sena-externos.github.io/122153-CF9-TG-GSTN_DLLO_ADMIN_INNOVA/#/](https://sena-externos.github.io/122153-CF9-TG-GSTN_DLLO_ADMIN_INNOVA/#/)
 
 #
 
