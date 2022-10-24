@@ -196,63 +196,63 @@
 
 
         .tarjeta.fnd-10.p-3.px-4(x="19%" y="45.5%" numero="+")
-          .h5.mb-2 Dubitativas
+          
           p Son las que expresan duda o probabilidad. A lo mejor iré mañana.
         .tarjeta.fnd-10.p-3.px-4(x="19%" y="54.5%" numero="+")
-          .h5.mb-2 Exclamativas
+          
           p Se utilizan para expresar sorpresa, alegría, tristeza, transmiten sentimientos y se escriben entre signos de exclamación. ¡Qué bonito es el vestido!
         .tarjeta.fnd-10.p-3.px-4(x="19%" y="63%" numero="+")
-          .h5.mb-2 Interrogativas
+          
           p Se utilizan para preguntar algo y se escriben entre signos de interrogación. ¿Te ha gustado la comida?
         .tarjeta.fnd-10.p-3.px-4(x="19%" y="72%" numero="+")
-          .h5.mb-2 Desiderativas
+          
           p Se utilizan para expresar uno o más deseos. Ojalá siempre fuera primavera.
         .tarjeta.fnd-10.p-3.px-4(x="19%" y="81%" numero="+")
-          .h5.mb-2 Enunciativas
+          
           p Se utilizan para expresar o comunicar algo y con ellas se afirma o se niega. La sopa está caliente.
         .tarjeta.fnd-10.p-3.px-4(x="19%" y="90%" numero="+")
-          .h5.mb-2 Imperativas
+          
           p Se utilizan para dar órdenes, pedir, o prohibir algo. No cortes el césped.          
 
         .tarjeta.fnd-10.p-3(x="43.8%" y="45.6%" numero="+")
-          .h5.mb-2 Atributivas
+          
           p Van asociadas a los verbos ser, estar y parecer. 
         .tarjeta.fnd-10.p-3(x="61%" y="45.6%" numero="+")
-          .h5.mb-2 Predicativas
+          
           p Van asociadas a cualquier otro verbo, que no sean los verbos: ser, estar, parecer. 
         .tarjeta.fnd-10.p-3(x="80.5%" y="45.6%" numero="+")
-          .h5.mb-2 Simples
+          
           p Son las que tienen un verbo. Los ancianos son lindos.
         .tarjeta.fnd-10.p-3(x="97%" y="45.6%" numero="+")
-          .h5.mb-2 Compuestas
+          
           p Son las que tienen dos o más verbos conjugados en forma personal. Cuando oímos los ruidos, se nos cortó la respiración.           
 
         .tarjeta.fnd-10.p-3(x="62.8%" y="61%" numero="+")
-          .h5.mb-2 Transitivas o intransitivas
+          
           p Las transitivas, se caracterizan por tener como núcleo un verbo transitivo, el cual debe llevar un complemento directo para completar su significado. Juan hizo una propuesta. (La propuesta es el complemento directo).
             br
             p Las intransitivas son las que no tienen un complemento directo. Están compuestas por el sujeto y un predicado verbal. Juan y María caminaron.       
         .tarjeta.fnd-10.p-3(x="62.8%" y="69.5%" numero="+")
-          .h5.mb-2 Reflexivas
+          
           p En ellas, la acción del sujeto recae sobre sí mismo, y se construyen con los pronombres me, te, se, nos, os. Juan se baña.       
         .tarjeta.fnd-10.p-3(x="62.8%" y="79.1%" numero="+")
-          .h5.mb-2 Recíprocas
+          
           p Son las que tienen sujetos múltiples, dos o más que intercambian la acción y se construyen con los pronombres nos, os, se. Ellos se miran.       
         .tarjeta.fnd-10.p-3(x="62.8%" y="88%" numero="+")
-          .h5.mb-2 Personales o impersonales
+          
           p Las personales son aquellas que tienen el sujeto explícito o sea que está presente en la oración. El pájaro vuela alto. Las impersonales no tienen sujeto. Es de noche.       
         .tarjeta.fnd-10.p-3(x="62.8%" y="97%" numero="+")
-          .h5.mb-2 Pasivas o activas
+          
           p En las activas, el verbo se encuentra en voz activa. El jardinero plantó tomates. Y en las pasivas, el verbo está en voz pasiva y el sujeto recibe la acción. Los tomates fueron plantados por el jardinero.              
 
         .tarjeta.fnd-10.p-3(x="97%" y="61%" numero="+")
-          .h5.mb-2 Coordinadas
+          
           p Se enlazan por conjunciones y preposiciones. El conductor pisó a fondo el freno, pero no consiguió parar. 
         .tarjeta.fnd-10.p-3(x="97%" y="70%" numero="+")
-          .h5.mb-2 Subordinadas
+          
           p Dependen estructuralmente de otra oración y carecen de sentido sin la oración principal. La silla que me regalaste es estilo moderno. 
         .tarjeta.fnd-10.p-3(x="97%" y="78.5%" numero="+")
-          .h5.mb-2 Yuxtapuestas
+          
           p Son las que se enlazan por signos de puntuación. Guarda esa ropa, cuélgala en tu cuarto.           
 
 
@@ -300,7 +300,7 @@
       li 
         i.fas.fa-square
         | 
-        h3.text-black Tipos de parrafo         
+        h3.text-black Tipos de párrafo         
 
 
     p Ahora, existen diferentes tipos de párrafos. Cada uno de ellos se explica a continuación.
@@ -329,39 +329,39 @@
                 p.mb-0 Aclarar una idea o precisar un personaje.
 
           .row(titulo="Párrafos narrativos")
-            ul.lista-ul--color.nar
+            ul.lista-ul--color
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | Relatan sucesos o desarrollos desde un objeto o sujeto central.
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | Admiten la lectura y progreso de las ideas.
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | Se emplean en textos científicos e intelectuales.
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | Caracterizan escritos o cuentos, mantienen orden cronológico de asentimientos y aseveraciones.
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | No necesitan garantía.
      
           .row(titulo="Párrafos argumentativos")
-            ul.lista-ul--color.nar
+            ul.lista-ul--color
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | Precisan ideas u opiniones.
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | Su objetivo es convencer al lector de la idea puntual.
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | El creador apoya su postura o aseveraciones con relación a una idea.
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | Su estructura es múltiple, se relacionan los descriptivos o narrativos.
               li 
-                i.fas.fa-check
+                i.fas.fa-circle.circle
                 | Se establece una hipótesis, tesis, supuesto y se aluden razones. Se citan autores, cifras, hechos verdaderos.
     
 
@@ -394,7 +394,7 @@
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De anécdota")
             p Las anécdotas, los hechos, las historias, atraen e involucran al lector.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De breves afirmaciones")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De breves<br> afirmaciones")
             p Es propio de la práctica periodística; son frases cortas, sintéticas y efectivas.
 
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De cita")
@@ -420,7 +420,7 @@
         h3.text-black Párrafos de desarrollo
 
     p.mb-3 Un párrafo de desarrollo es aquel donde se enuncia y explica la idea principal.
-    p.mb-5 Los tipos de párrafos de desarrollo son
+    p.mb-5 Los tipos de párrafos de desarrollo son:
 
     .row.m-0.align-items-center.justify-content-between.mb-5
       .col-lg-3.mb-4.mb-lg-0
@@ -432,19 +432,19 @@
             p La información se expone en forma de lista que va relacionada entre sus componentes. Este párrafo está conformado por dos partes: la lista de atributos y la idea principal. Puede presentarse en forma de escrutinio, cuenta cuántos componentes anteceden o preceden a la lista y, como resumen, realiza una anticipación que muestra, de forma breve, los contenidos.
 
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De secuencia")
-            p Las anécdotas, los hechos, las historias, atraen e involucran al lector.
+            p Los componentes se integran de forma separada, arreglados, de acuerdo con un criterio explícito. Es común en los textos científicos, y tradicional en las instrucciones operativas para dar solución a un problema.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De secuencia")
-            p Es propio de la práctica periodística; son frases cortas, sintéticas y efectivas.
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De comparación/contraste")
+            p Muestra las afinidades o diferencias que se dan entre dos o más objetos, situaciones, ideas o individuos y dispone una comparación, según algunos criterios seleccionados anteriormente.
 
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De desarrollo de un concepto")
-            p Es una de las figuras más utilizadas y efectivas para cautivar la atención del leyente, pueden usarse proverbios, versos de poetas o frases proferidas o escritas por un personaje famoso.
+            p La idea principal se muestra de forma determinada, luego se confirma con ejemplos o argumentaciones. Las ideas de apoyo demuestran, aclaran, aportan detalles o ejemplifican la idea principal. 
 
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De enunciado/solución de un problema")
-            p Propone un problema y el texto que le sigue especifica su progreso y, algunas veces, adiciona otros interrogantes que muestran los distintos aspectos del tema inicial.
+            p La cuestión y la solución se enuncian de manera elocuente. Su utilización es común en textos descriptivos y científicos. Está formado por dos componentes: a) expone el problema, b) enseña la solución. Para este guion se dan variantes como: forma completa, contraposición de desenlaces, prescindir de solución, eludir el problema.
 
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De causa/efecto")
-            p Dispone una comparación entre el asunto escrito y otra postura; explica la dificultad valiéndose de un contexto similar que pueda atraer la atención inicial del leyente. 
+            p Expone un acontecimiento, suceso o situación, que clarifica las causas que lo causaron. La descripción de esta causa puede preceder o seguir a la de la consecuencia.
 
 
     br
@@ -469,7 +469,7 @@
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De anécdota")
             p Rescata el hilo conductor de todo el escrito por medio de elementos narrativos o visuales, que captan la atención del lector y permiten un buen recuerdo del texto.   
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De breves afirmaciones")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De breves<br> afirmaciones")
             p Suceden a un periodo que simboliza el legítimo final del texto y repercute como un eco, una resonancia que ahonda en él.
 
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De cita")

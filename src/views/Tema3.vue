@@ -78,13 +78,13 @@
         .col-md-10
           h3 Distribución       
           p ¿Cómo distribuir documentos a la gente que los necesita? ¿Cuánto puede demorarse la distribución de los documentos?
-      .row(titulo="Workflow o flujo de trabajo")
+      .row(titulo="<em>Workflow</em> o flujo de trabajo")
         .col-md-2.mb-4.mb-md-0
           figure
             img.img-100(src='@/assets/curso/temas/tema3/img-8.svg')
              
         .col-md-10
-          h3 Workflow o flujo de trabajo
+          h3 <em>Workflow</em> o flujo de trabajo
           p Cuando los documentos deben pasar de una persona a otra, ¿cuáles son las normas para el flujo de estos documentos?
       .row(titulo="Creación")
         .col-md-2.mb-4.mb-md-0
@@ -111,31 +111,31 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-10.svg', alt='Texto que describa la imagen')
           .tarjeta.color-acento-contenido.p-4.px-5(x="45.3%" y="5.3%" numero="+")
-            .h3.mb-2.text-white Textuales
+  
             p Documentos textuales: son los que se fundamentan en el lenguaje escrito, o sea que contienen información sobre algún aspecto. En este rango de documentos se encuentran libros, revistas, actas de nacimiento y matrimonio, historiales médicos y académicos, etc. 
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="83.6%" y="37.8%" numero="+")
-            .h3.mb-2 Sonoros
+
             p Documentos sonoros: son los que se almacenan en algún soporte magnetofónico o registran y almacenan sonido. Por lo tanto, se habla de los que se fundamentan, en el lenguaje oral o en sonidos como son algunas obras musicales. Para grabarlos, se necesita de algún medio tecnológico como una grabadora de sonidos, no ocupan mucho espacio y pueden ser cintas, música, entrevistas, historias de vida, etc.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="83.6%" y="65.2%" numero="+")
-            .h3.mb-2 Audiovisuales
+     
             p Documentos audiovisuales: son los que se fundamentan en imagen y sonido, y se almacenan en cintas. Se trata de videos donde se registra algún evento con ayuda de una cámara de video. Ejemplos de estos documentos son las películas, la programación que emiten las televisoras, videos caseros, etc.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="46%" y="94.3%" numero="+")
-            .h3.mb-2.text-white Fotográficos
+
             p Documentos fotográficos: son fotografías que se han tomado por la utilización de cualquier tipo de técnica, sea análoga o digital. Las fotografías, al igual que los demás documentos, comunican un mensaje o información que se relaciona con algún evento o situación concreta.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="11.3%" y="71.8%" numero="+")
-            .h3.mb-2 Digitales
+
             p Documentos digitales: los documentos se pueden almacenar de forma digital y hoy en día se crean documentos textuales usando procesadores de texto, se graban sonidos a través de la computadora y se toman fotografías con cámaras digitales. Este tipo de almacenamiento se está popularizando, con la gran ventaja que no ocupan espacio físico.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="11%" y="49%" numero="+")
-            .h3.mb-2 Públicos
+
             p Documentos públicos: se refiere a los documentos expedidos o autorizados por funcionario público y que dan fe de su contenido, por sí mismos.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="11.5%" y="25.2%" numero="+")
-            .h3.mb-2 Privados
+
             p Documentos privados: se refiere a los documentos realizados entre particulares, en los que no ha intervenido ningún funcionario público.  
 
 

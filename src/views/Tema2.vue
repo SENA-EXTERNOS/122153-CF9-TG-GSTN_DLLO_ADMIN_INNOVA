@@ -32,20 +32,20 @@
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-2.svg' alt='AvatarTop')
         p.text-black.text-center Punto
-        p.text-center.px-4 Signo de puntuación cuyo uso principal es el de mostrar, de manera gráfica, la pausa que marca el final de enunciados y oraciones; se escriben sin dejar espacio de separación con el caracter que precede, pero se deja un espacio con el que le sigue a continuación, a menos que dicho caracter sea de cierre.
+        p.text-center.px-4 Signo de puntuación cuyo uso principal es el de mostrar, de manera gráfica, la pausa que marca el final de enunciados y oraciones; se escriben sin dejar espacio de separación con el carácter que precede, pero se deja un espacio con el que le sigue a continuación, a menos que dicho carácter sea de cierre.
         
       .tarjeta.color-acento-botones.p-4.fnd-11.tarjeta-avatar1
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-3.svg' alt='AvatarTop')
         p.text-black.text-center Coma
-        p.text-center.px-4 Signo que indica la presencia de una breve pausa dentro de la oración. Se escribe sin dejar espacio con el caracter que precede, pero se deja un espacio con el caracter que le sigue. Se utiliza para separar los componentes de una secuencia o sucesión, sean palabras o frases.
+        p.text-center.px-4 Signo que indica la presencia de una breve pausa dentro de la oración. Se escribe sin dejar espacio con el carácter que precede, pero se deja un espacio con el carácter que le sigue. Se utiliza para separar los componentes de una secuencia o sucesión, sean palabras o frases.
       .tarjeta.color-acento-botones.p-4.fnd-11.tarjeta-avatar1
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-4.svg' alt='AvatarTop')
         p.text-black.text-center Punto y coma
-        p.text-center.px-4 Signo de puntuación que muestra una pausa intermedia para unir dos oraciones relacionadas en una sola frase, para separar los componentes de una secuencia cuando se trata de manifestaciones que tienen comas y se usa delante de las conjunciones o locuciones como: pero, más, aunque, sin embargo, por tanto y por consiguiente, cuando los periodos tienen cierta longitud.
+        p.text-center.px-4 Signo de puntuación que muestra una pausa intermedia para unir dos oraciones relacionadas en una sola frase, para separar los componentes de una secuencia cuando se trata de manifestaciones que tienen comas y se usa delante de las conjunciones o locuciones como: pero, más, aunque, sin embargo, por tanto y por consiguiente, cuando los períodos tienen cierta longitud.
 
 
       .tarjeta.color-acento-botones.p-4.fnd-11.tarjeta-avatar1

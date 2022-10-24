@@ -62,7 +62,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Signos de puntuación y reglas ortográficas',
+        titulo: 'Signos de puntuación',
         desarrolloContenidos: true,
       },
       {
@@ -124,10 +124,11 @@ export default {
       referencia:
         'Archivo General de la Nación. (s.f.). <em>Políticas de archivos.</em> Archivo General de la Nación. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.archivogeneral.gov.co/politica/politicas#:~:text=La%20pol%C3%ADtica%20de%20gesti%C3%B3n%20documental,conjunto%20de%20est%C3%A1ndares%20para%20la',
     },
     {
-      referencia: 'Ucha, F. (2008). Definición de Documento. Definición ABC.',
+      referencia:
+        'Ucha, F. (2008).<em> Definición de Documento.</em> Definición ABC.',
       link: 'https://www.definicionabc.com/general/documento.php',
     },
   ],
@@ -173,6 +174,16 @@ export default {
       significado:
         'palabra que se emplea para designar una cosa sin emplear su nombre, común o propio. ',
     },
+    {
+      termino: 'Oración',
+      significado:
+        'es una unidad sintáctica con sentido completo, que está conformada por predicado y sujeto, este último puede ser expreso o implícito.',
+    },
+    {
+      termino: 'Ortografía',
+      significado:
+        'forma correcta de escribir las palabras y de utilizar los signos auxiliares de una lengua, respetando sus reglas.',
+    },
   ],
   complementario: [
     {
@@ -187,7 +198,7 @@ export default {
       referencia:
         'Pérez, V. (2020).<em> Tipos de documentos (video).</em> YouTube. https://youtu.be/VAvULe9Do60',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=VAvULe9Do60&feature=youtu.be',
     },
   ],
   creditos: {

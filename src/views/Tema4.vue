@@ -15,20 +15,15 @@
             img(src='@/assets/curso/temas/tema4/img-1.svg')
 
       .col-md-6.col-lg-8
-        p.mb-5 Se define como el fundamento por el que se concretan las acciones administrativas. El documento administrativo cumple con dos funciones: 
-          br
-          | Es un instrumento de verificación que permite comprobar el progreso de una actuación administrativa. 
-          br
-          | Es un instrumento de comunicación, debido a que los documentos administrativos permiten el cambio del contenido de los actos, a otros instrumentos o unidades de la administración, o a terceros interesados, ya sean personas jurídicas públicas y privadas, o personas jurídicas naturales. 
 
-    p.mb-3 Se define como el fundamento por el que se concretan las acciones administrativas. El documento administrativo cumple con dos funciones: 
-    ul.lista-ul--color.mb-5
-      li 
-        i.fas.fa-circle.circle
-        p.mb-0 Es un instrumento de verificación que permite comprobar el progreso de una actuación administrativa. 
-      li 
-        i.fas.fa-circle.circle
-        p.mb-0 Es un instrumento de comunicación, debido a que los documentos administrativos permiten el cambio del contenido de los actos, a otros instrumentos o unidades de la  administración, o a terceros interesados, ya sean personas jurídicas públicas y privadas, o personas jurídicas naturales. 
+        p.mb-3 Se define como el fundamento por el que se concretan las acciones administrativas. El documento administrativo cumple con dos funciones: 
+        ul.lista-ul--color.mb-5
+          li 
+            i.fas.fa-circle.circle
+            p.mb-0 Es un instrumento de verificación que permite comprobar el progreso de una actuación administrativa. 
+          li 
+            i.fas.fa-circle.circle
+            p.mb-0 Es un instrumento de comunicación, debido a que los documentos administrativos permiten el cambio del contenido de los actos, a otros instrumentos o unidades de la  administración, o a terceros interesados, ya sean personas jurídicas públicas y privadas, o personas jurídicas naturales. 
 
     h3.mb-5 Características
 
@@ -69,25 +64,25 @@
 
       .col-lg-9
         TabsA.color-acento-contenido.grs
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos administrativos")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos<br> administrativos")
             p Manifestados en el marco de los tratamientos administrativos. 
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de decisión")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de<br> decisión")
             p Se refiere a los que forman parte de una declaración de voluntad de un órgano administrativo, sobre materias de su competencia. Se clasifican en acuerdos y resoluciones. 
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de transmisión")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de <br>transmisión")
             p Son los que comunican la existencia de hechos o acciones a otras personas u órganos. 
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de constancia")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de <br>constancia")
             p Se definen como los que forman parte de una declaración de conocimiento de un órgano administrativo, que tiene la finalidad de fundamentarse en la acreditación de actos, hechos o resultados jurídicos. Se clasifican en actas y certificados.    
               
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de juicio")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de <br>juicio")
             p Son documentos que forman parte de una declaración de juicio de un órgano administrativo, o de una persona física o jurídica pública o privada, sobre cuestionamientos de hecho o de derecho que sean objeto de un procedimiento administrativo.   
               
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos administrativos de validación de otro anterior")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos<br> administrativos<br> de validación <br>de otro anterior")
             p Son los que cuentan con una explicación de sensatez de un órgano administrativo, o de una persona física o jurídica pública o privada, sobre las cuestiones de hecho o de derecho que sean objeto de un proceso gerencial.     
               
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos dictados en el marco de un procedimiento administrativo")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos <br>dictados en<br> el marco de un<br> procedimiento<br> administrativo")
             p Se clasifican en: administrativos de iniciación, administrativos de instrucción; es un documento por el que se mencionan las instrucciones de un proceso administrativo y los administrativos de terminación, que son los que constatan la terminación de un procedimiento administrativo por cualquiera de las causas que reconoce el ordenamiento jurídico.                  
            
       .col-lg-3.mb-4.mb-lg-0
