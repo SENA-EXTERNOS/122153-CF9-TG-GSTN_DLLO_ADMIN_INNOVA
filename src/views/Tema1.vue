@@ -434,13 +434,13 @@
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De secuencia")
             p Los componentes se integran de forma separada, arreglados, de acuerdo con un criterio explícito. Es común en los textos científicos, y tradicional en las instrucciones operativas para dar solución a un problema.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De comparación/contraste")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De comparación/<br>contraste")
             p Muestra las afinidades o diferencias que se dan entre dos o más objetos, situaciones, ideas o individuos y dispone una comparación, según algunos criterios seleccionados anteriormente.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De desarrollo de un concepto")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De desarrollo de<br> un concepto")
             p La idea principal se muestra de forma determinada, luego se confirma con ejemplos o argumentaciones. Las ideas de apoyo demuestran, aclaran, aportan detalles o ejemplifican la idea principal. 
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De enunciado/solución de un problema")
+          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De enunciado/<br>solución<br> de un problema")
             p La cuestión y la solución se enuncian de manera elocuente. Su utilización es común en textos descriptivos y científicos. Está formado por dos componentes: a) expone el problema, b) enseña la solución. Para este guion se dan variantes como: forma completa, contraposición de desenlaces, prescindir de solución, eludir el problema.
 
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De causa/efecto")
