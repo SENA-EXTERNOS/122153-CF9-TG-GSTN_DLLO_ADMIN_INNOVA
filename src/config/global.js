@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Estructura de documentos',
     descripcionCurso:
-      'En el presente componente formativo, se presenta la importancia de las categorías gramaticales y signos de puntuación, para llegar a una correcta composición del párrafo y terminar con el estudio del documento y la gestión documental.',
+      'En el presente componente formativo, se indica la importancia de las categorías gramaticales y signos de puntuación, para llegar a una correcta composición del párrafo y terminar con el estudio del documento y la gestión documental.',
     imagenBannerPrincipal: require('@/assets/curso/temas/portada/portada.png'),
     fondoBannerPrincipal: require('@/assets/curso/temas/portada/img-fnd.png'),
     imagenesDecorativasBanner: [

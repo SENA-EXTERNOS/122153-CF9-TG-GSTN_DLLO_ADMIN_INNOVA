@@ -15,11 +15,11 @@
             img(src='@/assets/curso/temas/tema2/img-1.png')
 
       .col-md-6.col-lg-8
-        p.mb-5 Le toca el turno a los signos de puntuación, los cuales son distintivos gráficos que, sin ser números ni letras, acceden a organizar los párrafos para ordenar lo que se desea comunicar. Cada uno de ellos cuenta con una función propia y unos usos constituidos por convención.
+        p.mb-5 Le toca el turno a los signos de puntuación, los cuales son distintivos gráficos que, sin ser números ni letras, organizan los párrafos para ordenar lo que se desea comunicar. Cada uno de ellos cuenta con una función propia y unos usos constituidos por convención.
 
 
         .cajon.color-acento-botones.p-4.mb-4
-          p Sus principales funciones, se clasifican en tres grupos: de puntuación, diacríticos y auxiliares y sus mismas funciones marcan las pausas de cómo se deben leer los enunciados y organizar la coherencia del discurso para facilitar su comprensión.
+          p Sus principales funciones, se clasifican en tres grupos: de puntuación, diacríticos y auxiliares. Marcan las pausas de cómo se deben leer los enunciados y organizar la coherencia del discurso para facilitar su comprensión.
 
         p.mb-5 Los signos de puntuación componen también la estructura del pensamiento escrito. Según sus términos y parámetros, entran a formar parte de los parámetros del idioma, y se ubican en un proceso de constante evolución. 
 

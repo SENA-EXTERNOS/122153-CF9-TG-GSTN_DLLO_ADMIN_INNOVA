@@ -15,13 +15,13 @@
             img(src='@/assets/curso/temas/tema1/img-1.png')
 
       .col-md-6.col-lg-8
-        p.mb-5 Para comenzar, conozcamos cómo determinar el uso de reglas ortográficas y gramaticales en la elaboración de textos teniendo, como premisa, la intención comunicativa que se espera obtener y, para lograr este objetivo es primordial conocer los detalles y los componentes de esta estructura
+        p.mb-5 Para comenzar, conozcamos cómo determinar el uso de reglas ortográficas y gramaticales en la elaboración de textos teniendo, como premisa, la intención comunicativa que se espera obtener y, para lograr este objetivo, es primordial conocer los detalles y los componentes de esta estructura. 
           br
           br
-          | Se comienza con el conocimiento de la gramática, que puede ser definida como: disciplina cuya estructura tiene como objetivo esencial, estudiar el idioma para identificar y analizar la estructura y función para utilizar correctamente, a partir de unas normas, las características de las palabras y sus accidentes, así como la manera en que se combinan las palabras para formar oraciones y llevar a cabo una actividad de comunicación. 
+          | Se inicia con el conocimiento de la gramática, que puede ser definida como: disciplina que tiene como objetivo esencial, estudiar el idioma, identificando y analizando su estructura y función, para ser utilizado correctamente, a partir de las normas, las características de las palabras y sus accidentes, así como también la manera en que se combinan las palabras para formar oraciones y llevar a cabo una actividad de comunicación. 
 
         .cajon.color-primario.p-4.mb-4.fnd-1
-          p Debido a que se presentan varias combinaciones conformadas por elementos lingüísticos, se han definido varias categorías conocidas como categorías gramaticales: agrupación de palabras que comparten ciertas características para denominar conceptos existentes.
+          p.mb-0 Debido a que se presentan varias combinaciones conformadas por elementos lingüísticos, se ha definido una estructura conocida como categorías gramaticales, que corresponde a una agrupación de palabras que comparten ciertas características para denominar conceptos existentes.
           
     p.mb-5 Existen nueve categorías gramaticales que, a continuación, se introducen para ser aprehendidas y estudiadas.          
     .row.justify-content-center.align-items-center.mb-5
@@ -57,13 +57,13 @@
                 figure
                   img.img-100(src='@/assets/curso/temas/tema1/img-4.svg', alt='Texto que describa la imagen')
               .col-md-10
-                p Palabra o categoría gramatical que se puede modificar para darle sentido a una acción que realice un individuo, e indica el tiempo en el que tiene lugar la acción. Por ejemplo, en la frase “mañana estaré en el trabajo”, el verbo se define en tiempo futuro. Se dice que se conjuga un verbo cuando se pone el verbo en todas sus formas posibles.
+                p Palabra o categoría gramatical que se puede modificar para darle sentido a una acción que realice un individuo, e indica el tiempo en el que tiene lugar dicha acción. Por ejemplo, en la frase “mañana estaré en el trabajo”, el verbo se define en tiempo futuro. Conjugar un verbo es ponerlo en todas sus formas posibles.
                 br
                 p Existen tres tipos de conjugaciones de los verbos:
                 ul.lista-ul--color
                   li 
                     i.fas.fa-circle.circle
-                    p.mb-0 Los que terminan en AR como: cantar, bailar, soñar
+                    p.mb-0 Los que terminan en AR como: cantar, bailar, soñar.
                   li 
                     i.fas.fa-circle.circle
                     p.mb-0  Los que terminan en ER como: comer, encender, beber.
@@ -76,7 +76,7 @@
                 figure
                   img.img-100(src='@/assets/curso/temas/tema1/img-5.svg', alt='Texto que describa la imagen')
               .col-md-10
-                p Palabra que modifica o complementa a un verbo, un adjetivo u otro adverbio. Aporta información sobre cantidad, lugar, tiempo, afirmación, negación y duda; en la siguiente tabla se presentan las diferentes clases de adverbios
+                p Palabra que modifica o complementa un verbo, un adjetivo u otro adverbio. Aporta información sobre cantidad, lugar, tiempo, afirmación, negación y duda; en la siguiente tabla, se presentan las diferentes clases de adverbios.
             .row.px-4(titulo="Determinante")
               .col-md-2.mb-4.mb-md-0
                 figure
@@ -96,10 +96,10 @@
                 .tarjeta.p-3.mb-5.fnd-7.px-4
                   .row.justify-content-around.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-1 Clases de pronombres y ejemplos
+                      h5.mb-0 Clases de pronombres y ejemplos
              
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Clases de pronombres y ejemplos.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Clases_de_pronombres_y_ejemplos.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -130,10 +130,10 @@
                 .tarjeta.p-3.mb-5.fnd-7.px-4
                   .row.justify-content-around.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-1   La siguiente imagen nos presenta las diferentes conjunciones.
+                      h5.mb-0 La siguiente imagen nos presenta las diferentes conjunciones.
              
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Tipos de conjuciones.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Tipos_de_conjuciones.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -268,10 +268,10 @@
           figure
             img(src='@/assets/curso/temas/tema1/img-14.png')    
       .col-md-6.col-lg-8
-        p.mb-5 Por otra parte, un párrafo es un segmento de un texto conformado por oraciones gramaticales clasificadas en principales y secundarias.        
+        p.mb-5 El párrafo es un segmento de un texto conformado por oraciones gramaticales clasificadas en principales y secundarias.     
 
         .cajon.color-primario.p-4.mb-4.fnd-1
-          p El párrafo está compuesto por una idea central, la cual contiene el tema del párrafo y orienta el desarrollo del mismo y por oraciones de apoyo o secundarias, que sostienen la idea principal, pero si se eliminan, no afectan el sentido del párrafo.
+          p Está compuesto por una <b>idea central</b>, la cual contiene el tema del párrafo y orienta a su desarrollo, y por <b>oraciones de apoyo o secundarias</b>, que sostienen a la idea principal y que, si se eliminan, no afectan el sentido del escrito.
 
         p.mb-5 Para conseguir comunicar las ideas de manera clara y efectiva, es recomendable estructurar el párrafo de la siguiente manera:
 
@@ -294,7 +294,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-4
-          p Tener en cuenta que la estructura anterior no es la única forma de organizar un párrafo; se dan párrafos inductivos, en los que se presenta la idea principal, al final del mismo. Sin embargo, exponer la idea principal al inicio, permitirá tener mayor claridad sobre el desarrollo y la estructura del párrafo. 
+          p.mb-0 Tenga en cuenta que la estructura anterior no es la única forma de organizar un párrafo; pueden darse párrafos inductivos, en los que se presenta la idea principal, al final del mismo. Sin embargo, exponer la idea principal al inicio, permitirá tener mayor claridad sobre el desarrollo y la estructura del escrito.  
 
     ul.lista-ul--color.mor.mb-3
       li 
@@ -303,8 +303,8 @@
         h3.text-black Tipos de párrafo         
 
 
-    p Ahora, existen diferentes tipos de párrafos. Cada uno de ellos se explica a continuación.
-
+    p Teniendo claro que un párrafo es un conjunto de oraciones articuladas entre sí temáticamente, y que dichas articulaciones ofrecen una relación lógica en el escrito, se encuentran diferentes tipos de párrafos que pueden componer un texto.  
+    p.mb-5 Cada uno de ellos se explica a continuación.
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-4
           figure.mb-5

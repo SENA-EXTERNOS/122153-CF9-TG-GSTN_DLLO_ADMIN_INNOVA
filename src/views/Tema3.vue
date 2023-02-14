@@ -15,7 +15,7 @@
             img(src='@/assets/curso/temas/tema3/img-1.png')
 
       .col-md-6.col-lg-8
-        p.mb-5 Continuemos con el proceso de gestión documental, conocido también como gestión de documentos, es un conjunto de normas técnicas y prácticas que se utilizan para administrar documentos de todo tipo, los que se reciben y los que se generan en una organización; este proceso busca facilitar la recuperación de la información en el momento en que se requiera y además es útil al determinar el tiempo que los documentos deben custodiarse, suprimirse y, en el caso de los más valiosos, asegurarse de su conservación a largo plazo, aplicando los principios de simplificación y economía. 
+        p.mb-5 Continuemos con el proceso de gestión documental, conocido también como gestión de documentos, el cual, es un conjunto de normas técnicas y prácticas que se utilizan para administrar documentos de todo tipo, los que se reciben y los que se generan en una organización; este proceso busca facilitar la recuperación de la información en el momento en que se requiera y, además, es útil al determinar el tiempo que los documentos deben custodiarse, suprimirse y, en el caso de los más valiosos, asegurarse de su conservación a largo plazo, aplicando los principios de simplificación y economía.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -25,9 +25,9 @@
           p Un documento se define como la demostración o testimonio material de una acción que un individuo físico o jurídico, una institución, asociación, etc., que puede ser pública o privada, lleva a cabo como conclusión del ejercicio de sus actividades y obligaciones y que podrá ser expresado en una unidad de información que contemple cualquier soporte, papel, cinta, disco magnético, película y fotografía, con el objeto de conservarlo en el tiempo, en caso de precisarlo para mostrarlo como prueba, recuerdo o legado a alguien. (Definición ABC, s.f.)
 
 
-    p.mb-5 En la actualidad, se puede encontrar cantidad de diferentes sistemas de gestión documental: desde el simple registro manual de la correspondencia, hasta los más sofisticados sistemas informáticos que manejan no solo la documentación administrativa sino que, además, controlan los flujos de trabajo del proceso de tramitación de los expedientes, capturan información desde bases de datos de producción, contabilidad y otros, enlazan con el contenido de archivos, bibliotecas, centros de documentación y permiten realizar búsquedas sofisticadas y recuperar información de cualquier lugar.
+    p.mb-5 En la actualidad, se puede encontrar una gran variedad de sistemas de gestión documental: desde el simple registro manual de la correspondencia, hasta los más sofisticados sistemas informáticos que manejan no solo la documentación administrativa sino que, además, controlan los flujos de trabajo del proceso de tramitación de los expedientes, capturan información desde bases de datos de producción, contabilidad y otros, enlazan con el contenido de archivos, bibliotecas, centros de documentación y permiten realizar búsquedas sofisticadas y recuperar información de cualquier lugar.
 
-    p.mb-5 Existe un proceso de gestión documental que, en la mayoría de los casos, se refiere al análisis y evaluación de las siguientes actividades:
+    p.mb-5 Como ya se indicó, en el proceso de gestión documental, se encuentran diferentes tipos de documentos que, en la mayoría de los casos, se refieren al análisis y evaluación de las siguientes actividades:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta t-azul")
       .row(titulo="Almacenamiento")
@@ -102,8 +102,15 @@
         .col-md
           h3 Autenticación        
           p ¿Cómo proporcionar los requisitos necesarios para la validación legal, al gobierno y a la industria privada, sobre la originalidad de los documentos y cumplir los estándares para su autentificación?
+
+    ul.lista-ul--color.mor.mb-3
+      li 
+        i.fas.fa-square
+        | 
+        h3.text-black Tipos de documentos          
      
-    p.mb-5 Existen diferentes tipos de documentos. A continuación, se presentan cada uno de ellos.
+    p Así mismo, encontramos distintos tipos de documentos, entre los que sobresalen:
+    p.mb-5 A continuación, se presentan cada uno de ellos.     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         ImagenInfografica.color-acento-botones.mb-5.btn-w
@@ -112,31 +119,31 @@
               img(src='@/assets/curso/temas/tema3/img-10.svg', alt='Texto que describa la imagen')
           .tarjeta.color-acento-contenido.p-4.px-5(x="45.3%" y="5.3%" numero="+")
   
-            p Documentos textuales: son los que se fundamentan en el lenguaje escrito, o sea que contienen información sobre algún aspecto. En este rango de documentos se encuentran libros, revistas, actas de nacimiento y matrimonio, historiales médicos y académicos, etc. 
+            p Son los que se fundamentan en el lenguaje escrito, o sea que contienen información sobre algún aspecto. En este rango de documentos se encuentran libros, revistas, actas de nacimiento y matrimonio, historiales médicos y académicos, etc. 
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="83.6%" y="37.8%" numero="+")
 
-            p Documentos sonoros: son los que se almacenan en algún soporte magnetofónico o registran y almacenan sonido. Por lo tanto, se habla de los que se fundamentan, en el lenguaje oral o en sonidos como son algunas obras musicales. Para grabarlos, se necesita de algún medio tecnológico como una grabadora de sonidos, no ocupan mucho espacio y pueden ser cintas, música, entrevistas, historias de vida, etc.
+            p Son los que se almacenan en algún soporte magnetofónico o registran y almacenan sonido. Por lo tanto, se habla de los que se fundamentan, en el lenguaje oral o en sonidos, como son algunas obras musicales. Para grabarlos, se necesita de algún medio tecnológico como una grabadora de sonidos, no ocupan mucho espacio y pueden ser cintas, música, entrevistas, historias de vida, etc.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="83.6%" y="65.2%" numero="+")
      
-            p Documentos audiovisuales: son los que se fundamentan en imagen y sonido, y se almacenan en cintas. Se trata de videos donde se registra algún evento con ayuda de una cámara de video. Ejemplos de estos documentos son las películas, la programación que emiten las televisoras, videos caseros, etc.
+            p Son los que se fundamentan en imagen y sonido, y se almacenan en cintas. Se trata de videos donde se registra algún evento con ayuda de una cámara de video. Ejemplos de estos documentos son las películas, la programación que emiten las televisoras, videos caseros, etc.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="46%" y="94.3%" numero="+")
 
-            p Documentos fotográficos: son fotografías que se han tomado por la utilización de cualquier tipo de técnica, sea análoga o digital. Las fotografías, al igual que los demás documentos, comunican un mensaje o información que se relaciona con algún evento o situación concreta.
+            p Son fotografías que se han tomado con la utilización de cualquier tipo de técnica, sea análoga o digital. Las fotografías, al igual que los demás documentos, comunican un mensaje o información que se relaciona con algún evento o situación concreta.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="11.3%" y="71.8%" numero="+")
 
-            p Documentos digitales: los documentos se pueden almacenar de forma digital y hoy en día se crean documentos textuales usando procesadores de texto, se graban sonidos a través de la computadora y se toman fotografías con cámaras digitales. Este tipo de almacenamiento se está popularizando, con la gran ventaja que no ocupan espacio físico.
+            p Los documentos se pueden almacenar de forma digital y hoy en día se crean documentos textuales usando procesadores de texto, se graban sonidos a través de la computadora y se toman fotografías con cámaras digitales. Este tipo de almacenamiento se está popularizando, con la gran ventaja que no ocupan espacio físico.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="11%" y="49%" numero="+")
 
-            p Documentos públicos: se refiere a los documentos expedidos o autorizados por funcionario público y que dan fe de su contenido, por sí mismos.
+            p Se refiere a los documentos expedidos o autorizados por funcionario público y que dan fe de su contenido, por sí mismos.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="11.5%" y="25.2%" numero="+")
 
-            p Documentos privados: se refiere a los documentos realizados entre particulares, en los que no ha intervenido ningún funcionario público.  
+            p Se refiere a los documentos realizados entre particulares, en los que no ha intervenido ningún funcionario público.
 
 
     p.mb-5 Ahora bien, en el proceso de gestión documental, también se presenta una clasificación de documentos por sus características:
@@ -144,13 +151,13 @@
     ul.lista-ul--color.mb-5
       li 
         i.fas.fa-circle.text-small 
-        p Según el mensaje informativo o forma de expresión del contenido: los documentos textuales y los no textuales, o por la transformación del contenido, se clasifican en documentos primarios, secundarios y terciarios.
+        p <b>Según el mensaje informativo o forma de expresión del contenido:</b> los documentos textuales y los no textuales, o por la transformación del contenido, se clasifican en documentos primarios, secundarios y terciarios.
       li 
         i.fas.fa-circle.text-small 
-        p Según la posibilidad o forma de transmisión o difusión: desde el punto de vista social, se habla de documentos públicos, reservados e inéditos y, desde el punto de vista temporal, de documentos periódicos o no periódicos, o sea de naturaleza monográfica.
+        p <b>Según la posibilidad o forma de transmisión o difusión:</b> desde el punto de vista social, se habla de documentos públicos, reservados e inéditos y, desde el punto de vista temporal, de documentos periódicos o no periódicos, o sea de naturaleza monográfica.
       li 
         i.fas.fa-circle.text-small 
-        p Según el soporte material: documentos de papel, (libros, revistas, folletos, etc.), material químico (películas), material magnético (cintas de video, disquette de ordenador, cassettes, etc.), soportes ópticos (CD-ROM, DVD, video, discos, etc.), entre otros.
+        p <b>Según el soporte material:</b> documentos de papel, (libros, revistas, folletos, etc.), material químico (películas), material magnético (cintas de video, disquette de ordenador, cassettes, etc.), soportes ópticos (CD-ROM, DVD, video, discos, etc.), entre otros.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
 
@@ -164,18 +171,6 @@
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
                   p <b>Enlace web.</b> Para ampliar la información, lo invitamos a consultar el artículo 6 del Decreto 2609 de 2012.
-
-
-
-
-
-
-
-
-
-
-
-
 
 </template>
 
