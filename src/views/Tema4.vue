@@ -60,30 +60,30 @@
 
     p.mb-5 Teniendo en cuenta lo anterior, los documentos administrativos se clasifican en los grupos que veremos a continuación: 
 
-    .row.m-0.align-items-center.justify-content-between.mb-5
-
+    .row.m-0.align-items-start.justify-content-between.mb-5
       .col-lg-9
-        TabsA.color-acento-contenido.grs
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos<br> administrativos")
-            p Manifestados en el marco de los tratamientos administrativos. 
-
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de<br> decisión")
-            p Se refiere a los que forman parte de una declaración de voluntad de un órgano administrativo, sobre materias de su competencia. Se clasifican en acuerdos y resoluciones. 
-
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de <br>transmisión")
-            p Son los que comunican la existencia de hechos o acciones a otras personas u órganos. 
-
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de <br>constancia")
-            p Se definen como los que forman parte de una declaración de conocimiento de un órgano administrativo, que tiene la finalidad de fundamentarse en la acreditación de actos, hechos o resultados jurídicos. Se clasifican en actas y certificados.    
-              
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos de <br>juicio")
-            p Son documentos que forman parte de una declaración de juicio de un órgano administrativo, o de una persona física o jurídica pública o privada, sobre cuestionamientos de hecho o de derecho que sean objeto de un procedimiento administrativo.   
-              
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos<br> administrativos<br> de validación <br>de otro anterior")
-            p Son los que cuentan con una explicación de sensatez de un órgano administrativo, o de una persona física o jurídica pública o privada, sobre las cuestiones de hecho o de derecho que sean objeto de un proceso gerencial.     
-              
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="Documentos <br>dictados en<br> el marco de un<br> procedimiento<br> administrativo")
-            p Se clasifican en: administrativos de iniciación, administrativos de instrucción; es un documento por el que se mencionan las instrucciones de un proceso administrativo y los administrativos de terminación, que son los que constatan la terminación de un procedimiento administrativo por cualquiera de las causas que reconoce el ordenamiento jurídico.                  
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6")
+          .row(titulo="Documentos administrativos")
+            .col-12
+              p.mb-0 Manifestados en el marco de los tratamientos administrativos.   
+          .row(titulo="Documentos de decisión")
+            .col-12
+              p.mb-0 Se refiere a los que forman parte de una declaración de voluntad de un órgano administrativo, sobre materias de su competencia. Se clasifican en acuerdos y resoluciones. 
+          .row(titulo="Documentos de transmisión")
+            .col-12
+              p.mb-0 Son los que comunican la existencia de hechos o acciones a otras personas u órganos.  
+          .row(titulo="Documentos de constancia")
+            .col-12
+              p.mb-0 Se definen como los que forman parte de una declaración de conocimiento de un órgano administrativo, que tiene la finalidad de fundamentarse en la acreditación de actos, hechos o resultados jurídicos. Se clasifican en actas y certificados.    
+          .row(titulo="Documentos de juicio")
+            .col-12
+              p.mb-0 Son documentos que forman parte de una declaración de juicio de un órgano administrativo, o de una persona física o jurídica pública o privada, sobre cuestionamientos de hecho o de derecho que sean objeto de un procedimiento administrativo.    
+          .row(titulo="Documentos administrativos de validación de otro anterior")
+            .col-12
+              p.mb-0 Son los que cuentan con una explicación de sensatez de un órgano administrativo, o de una persona física o jurídica pública o privada, sobre las cuestiones de hecho o de derecho que sean objeto de un proceso gerencial. 
+          .row(titulo="Documentos dictados en el marco de un procedimiento administrativo")
+            .col-12
+              p.mb-0 Se clasifican en: administrativos de iniciación, administrativos de instrucción; es un documento por el que se mencionan las instrucciones de un proceso administrativo y los administrativos de terminación, que son los que constatan la terminación de un procedimiento administrativo por cualquiera de las causas que reconoce el ordenamiento jurídico.  
            
       .col-lg-3.mb-4.mb-lg-0
         figure

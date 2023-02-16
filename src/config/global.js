@@ -187,18 +187,31 @@ export default {
   ],
   complementario: [
     {
+      tema: 'Categorías gramaticales',
+      referencia:
+        'La profe Mónica. (2021). <i>Categorías gramaticales – Lección completa.</i> ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=jripSA4hq5E',
+    },
+    {
       tema: 'Signos de puntuación',
       referencia:
-        'Aula365 – Los Creadores. (2016).<em> Cómo usar los signos de puntuación – Videos educativos Aula365 </em>(video). YouTube. https://youtu.be/LtP_UkSj5ho',
+        'Aula365 – Los Creadores. (2016).<em> Cómo usar los signos de puntuación – Videos educativos Aula365.</em>',
       tipo: 'Video',
       link: 'https://youtu.be/LtP_UkSj5ho',
     },
     {
       tema: 'Gestión documental',
-      referencia:
-        'Pérez, V. (2020).<em> Tipos de documentos (video).</em> YouTube. https://youtu.be/VAvULe9Do60',
+      referencia: 'Pérez, V. (2020).<em> Tipos de documentos.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=VAvULe9Do60&feature=youtu.be',
+    },
+    {
+      tema: 'Documento administrativo',
+      referencia:
+        'Estudiando con Jackeline. (2020). <i>Documentos Administrativos Concepto y Clases.</i>',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=lZ-P1zYjq7U',
     },
   ],
   creditos: {

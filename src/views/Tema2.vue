@@ -98,7 +98,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-11
         .cajon.color-acento-botones.p-4.mb-4
-          p Es importante conocer que las reglas ortográficas son las normas que regulan la escritura de las palabras en una lengua y el sistema que conforman estas normas, se llama ortografía; la labor de la ortografía es ocuparse de la forma correcta de escribir las palabras y conforma una convención sobre cómo debe manifestarse, por escrito, un determinado idioma. 
+          p.mb-0 #[b Nota:] Es importante conocer que las reglas ortográficas son las normas que regulan la escritura de las palabras en una lengua y el sistema que conforman estas normas, se llama ortografía; la labor de la ortografía es ocuparse de la forma correcta de escribir las palabras y conforma una convención sobre cómo debe manifestarse, por escrito, un determinado idioma. 
 
     figure.mb-5
       .video

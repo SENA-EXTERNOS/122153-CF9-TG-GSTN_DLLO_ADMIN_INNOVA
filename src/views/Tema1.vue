@@ -169,7 +169,7 @@
             li 
               i.fas.fa-circle.circle
               p.mb-0 
-                b Predicado:
+                b Predicado: 
                 | palabra o grupo de palabras que expresan lo que se dice del sujeto.
 
       .col-md-6.col-lg-4
@@ -182,7 +182,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         figure
-            img(src='@/assets/curso/temas/tema1/img-12.svg')
+            img(src='@/assets/curso/temas/tema1/1.svg')
 
 
 

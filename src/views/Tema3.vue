@@ -29,14 +29,14 @@
 
     p.mb-5 Como ya se indicó, en el proceso de gestión documental, se encuentran diferentes tipos de documentos que, en la mayoría de los casos, se refieren al análisis y evaluación de las siguientes actividades:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta t-azul")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6")
       .row(titulo="Almacenamiento")
         .col-md-2.mb-4.mb-md-0
           figure
             img.img-100(src='@/assets/curso/temas/tema3/img-2.svg')
              
         .col-md-10
-          h3 Almacenamiento
+
           p ¿Dónde se guardan los documentos?
       .row(titulo="Recuperación")
         .col-md-2.mb-4.mb-md-0
@@ -44,7 +44,7 @@
             img.img-100(src='@/assets/curso/temas/tema3/img-3.svg')
              
         .col-md-10
-          h3 Recuperación
+
           p ¿Cómo encontrar los documentos necesarios? ¿Cuánto tiempo puede demorar la búsqueda de un documento? ¿Qué opciones tecnológicas están disponibles para la recuperación?
       .row(titulo="Clasificación")
         .col-md-2.mb-4.mb-md-0
@@ -52,7 +52,7 @@
             img.img-100(src='@/assets/curso/temas/tema3/img-4.svg')
              
         .col-md-10
-          h3 Clasificación        
+       
           p ¿Cómo organizar los documentos? ¿Cómo asegurar que los documentos se archiven siguiendo el sistema más apropiado?
       .row(titulo="Seguridad")
         .col-md-2.mb-4.mb-md-0
@@ -60,7 +60,7 @@
             img.img-100(src='@/assets/curso/temas/tema3/img-5.svg')
              
         .col-md-10
-          h3 Seguridad       
+      
           p ¿Cómo evitar la pérdida de documentos, la violación de la información o la destrucción no deseada de documentos?
       .row(titulo="Custodia")
         .col-md-2.mb-4.mb-md-0
@@ -68,7 +68,7 @@
             img.img-100(src='@/assets/curso/temas/tema3/img-6.svg')
              
         .col-md-10
-          h3 Custodia        
+      
           p ¿Cómo decidir qué documentos conservar? ¿Por cuánto tiempo deben ser guardados? ¿Cómo proceder con su eliminación?
       .row(titulo="Distribución")
         .col-md-2.mb-4.mb-md-0
@@ -76,7 +76,7 @@
             img.img-100(src='@/assets/curso/temas/tema3/img-7.svg')
              
         .col-md-10
-          h3 Distribución       
+      
           p ¿Cómo distribuir documentos a la gente que los necesita? ¿Cuánto puede demorarse la distribución de los documentos?
       .row(titulo="<em>Workflow</em> o flujo de trabajo")
         .col-md-2.mb-4.mb-md-0
@@ -84,7 +84,7 @@
             img.img-100(src='@/assets/curso/temas/tema3/img-8.svg')
              
         .col-md-10
-          h3 <em>Workflow</em> o flujo de trabajo
+
           p Cuando los documentos deben pasar de una persona a otra, ¿cuáles son las normas para el flujo de estos documentos?
       .row(titulo="Creación")
         .col-md-2.mb-4.mb-md-0
@@ -92,7 +92,7 @@
             img.img-100(src='@/assets/curso/temas/tema3/img-9.svg')
              
         .col-md-10
-          h3 Creación
+
           p Si más de una persona se encuentra implicada en la creación o modificación de un documento, ¿cómo se podrá ayudar con esas tareas?
       .row(titulo="Autenticación")
         .col-md-1.mb-4.mb-md-0
@@ -100,7 +100,7 @@
             img.img-100(src='@/assets/curso/temas/tema3/img-9-.svg')
              
         .col-md
-          h3 Autenticación        
+        
           p ¿Cómo proporcionar los requisitos necesarios para la validación legal, al gobierno y a la industria privada, sobre la originalidad de los documentos y cumplir los estándares para su autentificación?
 
     ul.lista-ul--color.mor.mb-3
@@ -157,7 +157,7 @@
         p <b>Según la posibilidad o forma de transmisión o difusión:</b> desde el punto de vista social, se habla de documentos públicos, reservados e inéditos y, desde el punto de vista temporal, de documentos periódicos o no periódicos, o sea de naturaleza monográfica.
       li 
         i.fas.fa-circle.text-small 
-        p <b>Según el soporte material:</b> documentos de papel, (libros, revistas, folletos, etc.), material químico (películas), material magnético (cintas de video, disquette de ordenador, cassettes, etc.), soportes ópticos (CD-ROM, DVD, video, discos, etc.), entre otros.
+        p <b>Según el soporte material:</b> documentos de papel, (libros, revistas, folletos, etc.), material químico (películas), material magnético (cintas de video, <i>disquette</i> de ordenador, <i>cassettes</i>, etc.), soportes ópticos (CD-ROM, DVD, video, discos, etc.), entre otros.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
 
