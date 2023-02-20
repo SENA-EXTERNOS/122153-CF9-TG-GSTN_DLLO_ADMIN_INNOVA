@@ -27,7 +27,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .tarjeta.tarjeta--gris.p-4.mb-5.fnd-3.align-items-start
-          LineaTiempoC.color-acento-contenido(text-small)
+          LineaTiempoC.color-acento-contenido
             .row.align-items-start.px-4(titulo="Sustantivo <br>(nombre)")
               .col-md-2.mb-4.mb-md-0.align-items-start
                 figure
@@ -77,6 +77,18 @@
                   img.img-100(src='@/assets/curso/temas/tema1/img-5.svg', alt='Texto que describa la imagen')
               .col-md-10
                 p Palabra que modifica o complementa un verbo, un adjetivo u otro adverbio. Aporta información sobre cantidad, lugar, tiempo, afirmación, negación y duda; en la siguiente tabla, se presentan las diferentes clases de adverbios.
+
+                .tarjeta.color-primario.p-3.mt-4
+                  .row.justify-content-around.align-items-center
+                    .col
+                      .row.justify-content-between.align-items-center
+                        .col.mb-3.mb-sm-0
+                          h5.mb-0 La siguiente imagen nos presenta los diferentes adverbios
+                        .col-sm-auto
+                          a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Tipos_de_adverbios.pdf')" target="_blank")
+                            span Descargar
+                            i.fas.fa-file-download
+
             .row.px-4(titulo="Determinante")
               .col-md-2.mb-4.mb-md-0
                 figure
@@ -127,15 +139,17 @@
                     p.mb-0 
                       b Conjunciones subordinantes: 
                       | son palabras que no cambian su forma y unen dos elementos con diferentes jerarquías; unen dos partes de la oración y aportan un sentido característico. 
-                .tarjeta.p-3.mb-5.fnd-7.px-4
+
+                .tarjeta.color-primario.p-3
                   .row.justify-content-around.align-items-center
-                    .col.mb-3.mb-sm-0
-                      h5.mb-0 La siguiente imagen nos presenta las diferentes conjunciones.
-             
-                    .col-sm-auto
-                      a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Tipos_de_conjuciones.pdf')" target="_blank")
-                        span Descargar
-                        i.fas.fa-file-download
+                    .col
+                      .row.justify-content-between.align-items-center
+                        .col.mb-3.mb-sm-0
+                          h5.mb-0   La siguiente imagen nos presenta las diferentes conjunciones.
+                        .col-sm-auto
+                          a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Tipos_de_conjuciones.pdf')" target="_blank")
+                            span Descargar
+                            i.fas.fa-file-download
 
             .row.px-4(titulo="Interjección")
               .col-md-2.mb-4.mb-md-0
