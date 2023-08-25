@@ -401,23 +401,23 @@
     .row.m-0.align-items-center.justify-content-between.mb-5
 
       .col-lg-9
-        TabsA.color-acento-contenido.grs
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De síntesis")
+        TabsC.color-acento-contenido.grs
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De síntesis")
             p Es el utilizado en todo tipo o modelo de texto; aquí se resume el tema o la materia del escrito. La ventaja de esta entrada se da porque presenta de manera rápida, información integrante sobre el contenido del texto y la desventaja es que permite que la información se manifieste presumible y repetitiva.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De anécdota")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De anécdota")
             p Las anécdotas, los hechos, las historias, atraen e involucran al lector.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De breves<br> afirmaciones")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De breves afirmaciones")
             p Es propio de la práctica periodística; son frases cortas, sintéticas y efectivas.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De cita")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De cita")
             p Es una de las figuras más utilizadas y efectivas para cautivar la atención del leyente, pueden usarse proverbios, versos de poetas o frases proferidas o escritas por un personaje famoso.   
               
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De interrogante")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De interrogante")
             p Propone un problema y el texto que le sigue especifica su progreso y, algunas veces, adiciona otros interrogantes que muestran los distintos aspectos del tema inicial.   
               
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De analogía")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De analogía")
             p Dispone una comparación entre el asunto escrito y otra postura; explica la dificultad valiéndose de un contexto similar que pueda atraer la atención inicial del leyente.    
               
            
@@ -441,23 +441,23 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-18.png')
       .col-lg-9
-        TabsA.color-acento-contenido.grs
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De enumeración")
+        TabsC.color-acento-contenido.grs
+          .tarjeta.color-acento-botones.fnd-1.p-4.my-3(titulo="De enumeración")
             p La información se expone en forma de lista que va relacionada entre sus componentes. Este párrafo está conformado por dos partes: la lista de atributos y la idea principal. Puede presentarse en forma de escrutinio, cuenta cuántos componentes anteceden o preceden a la lista y, como resumen, realiza una anticipación que muestra, de forma breve, los contenidos.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De secuencia")
+          .tarjeta.color-acento-botones.fnd-1.p-4.my-3(titulo="De secuencia")
             p Los componentes se integran de forma separada, arreglados, de acuerdo con un criterio explícito. Es común en los textos científicos, y tradicional en las instrucciones operativas para dar solución a un problema.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De comparación/<br>contraste")
+          .tarjeta.color-acento-botones.fnd-1.p-4.my-3(titulo="De comparación/contraste")
             p Muestra las afinidades o diferencias que se dan entre dos o más objetos, situaciones, ideas o individuos y dispone una comparación, según algunos criterios seleccionados anteriormente.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De desarrollo de<br> un concepto")
+          .tarjeta.color-acento-botones.fnd-1.p-4.my-3(titulo="De desarrollo de un concepto")
             p La idea principal se muestra de forma determinada, luego se confirma con ejemplos o argumentaciones. Las ideas de apoyo demuestran, aclaran, aportan detalles o ejemplifican la idea principal. 
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De enunciado/<br>solución<br> de un problema")
+          .tarjeta.color-acento-botones.fnd-1.p-4.my-3(titulo="De enunciado/solución de un problema")
             p La cuestión y la solución se enuncian de manera elocuente. Su utilización es común en textos descriptivos y científicos. Está formado por dos componentes: a) expone el problema, b) enseña la solución. Para este guion se dan variantes como: forma completa, contraposición de desenlaces, prescindir de solución, eludir el problema.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De causa/efecto")
+          .tarjeta.color-acento-botones.fnd-1.p-4.my-3(titulo="De causa/efecto")
             p Expone un acontecimiento, suceso o situación, que clarifica las causas que lo causaron. La descripción de esta causa puede preceder o seguir a la de la consecuencia.
 
 
@@ -475,21 +475,21 @@
     .row.m-0.align-items-center.justify-content-between.mb-5
 
       .col-lg-9
-        TabsA.color-acento-contenido.grs    
+        TabsC.color-acento-contenido.grs    
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De síntesis")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De síntesis")
             p Una corta recopilación de las primordiales ideas del escrito.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De anécdota")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De anécdota")
             p Rescata el hilo conductor de todo el escrito por medio de elementos narrativos o visuales, que captan la atención del lector y permiten un buen recuerdo del texto.   
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De breves<br> afirmaciones")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De breves afirmaciones")
             p Suceden a un periodo que simboliza el legítimo final del texto y repercute como un eco, una resonancia que ahonda en él.
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De cita")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De cita")
             p Se puede utilizar el tipo de citas que se desee, siempre que se adapte al tema que se presenta.    
 
-          .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De interrogante")
+          .tarjeta.color-acento-botones.fnd-1.p-4.mb-3(titulo="De interrogante")
             p Propone, al final del escrito, las preguntas no resueltas y los problemas expuestos a las presunciones del futuro.
 
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De analogía")
