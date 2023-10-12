@@ -62,7 +62,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Signos de puntuación',
+        titulo: 'Signos de puntuación y reglas ortográficas',
         desarrolloContenidos: true,
       },
       {
@@ -190,27 +190,28 @@ export default {
     {
       tema: 'Categorías gramaticales',
       referencia:
-        'La profe Mónica. (2021). <i>Categorías gramaticales – Lección completa.</i> ',
+        'La profe Mónica. (2021). <i>Categorías gramaticales – Lección completa.</i> (Vídeo) YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=jripSA4hq5E',
     },
     {
       tema: 'Signos de puntuación',
       referencia:
-        'Aula365 – Los Creadores. (2016).<em> Cómo usar los signos de puntuación – Videos educativos Aula365.</em>',
+        'Aula365 – Los Creadores. (2016).<em> Cómo usar los signos de puntuación – Videos educativos Aula365.</em> (Vídeo) YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/LtP_UkSj5ho',
     },
     {
       tema: 'Gestión documental',
-      referencia: 'Pérez, V. (2020).<em> Tipos de documentos.</em>',
+      referencia:
+        'Pérez, V. (2020).<em> Tipos de documentos.</em> (Vídeo) YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=VAvULe9Do60&feature=youtu.be',
     },
     {
       tema: 'Documento administrativo',
       referencia:
-        'Estudiando con Jackeline. (2020). <i>Documentos Administrativos Concepto y Clases.</i>',
+        'Estudiando con Jackeline. (2020). <i>Documentos Administrativos Concepto y Clases.</i> (Vídeo) YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=lZ-P1zYjq7U',
     },

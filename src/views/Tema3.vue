@@ -139,7 +139,7 @@
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="11%" y="49%" numero="+")
 
-            p Se refiere a los documentos expedidos o autorizados por funcionario público y que dan fe de su contenido, por sí mismos.
+            p Se refiere a los documentos expedidos o autorizados por un funcionario público y que dan fe de su contenido, por sí mismos.
 
           .tarjeta.color-acento-contenido.p-4.px-5(x="11.5%" y="25.2%" numero="+")
 

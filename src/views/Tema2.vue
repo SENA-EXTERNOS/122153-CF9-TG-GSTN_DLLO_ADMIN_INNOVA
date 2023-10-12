@@ -72,14 +72,14 @@
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-8.svg' alt='AvatarTop')
         p.text-black.text-center Signos de interrogación
-        p.text-center Se utilizan para hacer una pregunta. En el idioma español se escriben al principio y al final de la misma y uno abre la pregunta y el otro la cierra.
+        p.text-center Se utilizan para hacer una pregunta. En el idioma español se escriben al principio y al final de la misma, uno abre la pregunta y el otro la cierra.
         
       .tarjeta.color-acento-botones.p-4.fnd-11.tarjeta-avatar1
         .row.justify-content-center.mb-3
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-9.svg' alt='AvatarTop')
         p.text-black.text-center Signos de exclamación
-        p.text-center Se utilizan para representar una entonación exclamativa o mostrar una manera de actuar en una oración. En el idioma español se escriben al inicio y al final de la misma y uno abre la pregunta y el otro la cierra.
+        p.text-center Se utilizan para representar una entonación exclamativa o mostrar una manera de actuar en una oración. En el idioma español se escriben al inicio y al final de la misma, uno abre la pregunta y el otro la cierra.
       .tarjeta.color-acento-botones.p-4.fnd-11.tarjeta-avatar1
         .row.justify-content-center.mb-3
           .col-8
@@ -98,25 +98,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-11
         .cajon.color-acento-botones.p-4.mb-4
-          p.mb-0 #[b Nota:] Es importante conocer que las reglas ortográficas son las normas que regulan la escritura de las palabras en una lengua y el sistema que conforman estas normas, se llama ortografía; la labor de la ortografía es ocuparse de la forma correcta de escribir las palabras y conforma una convención sobre cómo debe manifestarse, por escrito, un determinado idioma. 
+          p.mb-0 #[b Nota:] es importante conocer que las reglas ortográficas son las normas que regulan la escritura de las palabras en una lengua y el sistema que conforman estas normas, se llama ortografía; la labor de la ortografía es ocuparse de la forma correcta de escribir las palabras y conforma una convención sobre cómo debe manifestarse, por escrito, un determinado idioma. 
 
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Bb8YB-HsvR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </template>

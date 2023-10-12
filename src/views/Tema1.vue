@@ -159,7 +159,7 @@
                 p Es una palabra, o una expresión, que se pronuncia en tono exclamativo y expresa un estado de ánimo. Siempre va entre signos de admiración.
                 p.mb-0
                   b Ejemplo: 
-                  | ¡formidable! ¡vaya!
+                  | ¡formidable! ¡Vaya!
 
 
     Separador
@@ -421,7 +421,7 @@
             p Dispone una comparación entre el asunto escrito y otra postura; explica la dificultad valiéndose de un contexto similar que pueda atraer la atención inicial del leyente.    
               
            
-      .col-lg-3.mb-4.mb-lg-0
+      .col-lg-3.col-6.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema1/img-17.png')
 
@@ -437,7 +437,7 @@
     p.mb-5 Los tipos de párrafos de desarrollo son:
 
     .row.m-0.align-items-center.justify-content-between.mb-5
-      .col-lg-3.mb-4.mb-lg-0
+      .col-lg-3.col-6.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema1/img-18.png')
       .col-lg-9
@@ -495,7 +495,7 @@
           .tarjeta.color-acento-botones.fnd-1.p-4(titulo="De analogía")
             p Presenta una confrontación entre el texto escrito y otra situación y expresa el problema utilizando un contexto parecido que pueda atraer la atención inicial del lector.    
                                     
-      .col-lg-3.mb-4.mb-lg-0
+      .col-lg-3.col-6.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema1/img-19.png')
 

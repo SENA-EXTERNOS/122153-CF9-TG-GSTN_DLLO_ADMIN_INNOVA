@@ -41,7 +41,7 @@
             li.mb-4  
               .lista-ol--cuadro__vineta
                 span b.
-              | Ser emitido por un órgano administrativo, quedando descartados todos los documentos escritos o creados por los interesados,como las solicitudes, las alegaciones o los recursos y reclamaciones. 
+              | Ser emitido por un órgano administrativo, quedando descartados todos los documentos escritos o creados por los interesados, como las solicitudes, las alegaciones o los recursos y reclamaciones. 
             li.mb-4  
               .lista-ol--cuadro__vineta
                 span c.
